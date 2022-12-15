@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IKP_Projekat.cpp">
+    <ClCompile Include="PubSubEngine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
